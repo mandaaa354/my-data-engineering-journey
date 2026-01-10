@@ -1,1 +1,42 @@
-hello....
+# Hi, week 1 learn data engineering!
+
+# Source and learning path: IBM DATA ENGINEERING, Youtube and Chatgpt.
+# Start january, 05 2026
+
+# 🌼 Background and Motivation
+    Pada awalnya saya sudah belajar fundamental pyhton dari tahun 2024, namun tidak konsisten, dengan keseriusan akhirnya saya bisa menyelesaikan
+    course python dari tutorial di youtube By Kelas terbuka (faqihza mukhlis) ( https://www.youtube.com/watch?v=iA8lLwmtKQM&list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&pp=0gcJCbEEOCosWNin )
+    meskipun belum expert banget, namun setidaknya saya paham perintah-perintah dasar dan syntax pada .py tersebut.
+    Setelah berhasil menyelesaikan course .py tersebut saya mulai mencari-cari skill yang sustainable for longtime. saya research dari berbagai macam sumber, dan akhirnya
+    saya memutuskan untuk memperdalam data engineering. 
+    January, 05 2026 awal perjalanan belajar saya dimulai! lets go!!!!
+
+# 🌟 RANGKUMAN
+
+##  MODULE 1 by IBM DATA ENGINEERING
+    Data memegang kunci keunggulan kompetitif pada sebuah perusahaan/instansi. fokus pada pipiline and warehousing.
+    Data engineering menitik beratkan pada akurasi data dan efisiensi data. Terdapat 2 data source; Structured and Unstructured. Data yang diambil masih bersifat mentah dan perlu di atur, dibersihkan
+    dan dioptimalkan to use by end user. Dan harus sesuai standar yang diberlakukan by end user. Tantangannya in this first step adalah keandalan, keamanan, dan integrasi data.
+    Setelah data selesai di proses sesuai dengan standar oleh end user maka tantangan berikutnya adalah antarmuka, API  to use by end user.
+    
+    => Key players inthe data ecosystem
+      - Extract Transform Load, Data Transformation, and warehouse deploymenT.
+      - DE adalah orang yang mengembangkan dan memelihara arsitektur data, dan membuat data for ready to analyst.
+      - DE bekerja dengan ecosystem to ekstract, mengintregasikan dan mengatur data from sumber yang berbeda.
+      - Convert RAW data to usable by DA or Business alayst.
+
+    => SKILLS
+      - Good knowledge on progamming
+      - Architecture technology
+      - Relasional database and Nonrelational database.
+
+    => The process
+      collecting source data => processing data => storing data => making data available to users securely.
+
+    => Conlusion
+      - Provide a robust and scalable structure to make quality data avaible for decission making.
+      - Includes the tools and technologies involved in data manipulation
+      - Involves understanding the complexities of data and how it's leverage for fact-finding and decission making.
+
+
+# PROJECT SECTION
