@@ -1,0 +1,30 @@
+WEEK 2/DAY 1/Monday, 12 Januari
+
+# Course IBM dari Coursera
+  tidak bisa saya lanjutkan, karena berbayar dan cukup expensive bagi saya.
+  namun saya tidk menyerah, saya tetap mencari sumber lain dari YT.
+  saya menemukan channel Yt "Data with Baraa", saya mulai belajar SQL dasar dari situ. 
+  link https://www.youtube.com/@DataWithBaraa
+
+# untuk beberapa minggu kedepan saya fokus dengan pondasi sql terlebih dahulu.
+  tools yang saya gunakan adalah dbeaver dan postgresql yang saya jalankan di dalam docker.
+
+# sedikit berbagi
+  saya benar benar merasa bangga dengan diri saya, karena saya sudah berhasil menggabungkan puzzle-puzzle dari
+  data engineering. maksudnya adalah saya berhasil memahami konsep dasar bagaimana database, sql python dll berperan.
+  saya tidak hanya menonton video saja, tapi saya menyatukan puzzle samapi benar benar 'klik' dikepala saya.
+  sebuah langkah kecil namun besar bagi perjalanan saya selanjutnya.
+
+  Dbeaver: sebagai viewer dan untuk menulis query.
+  Postgre: menjalankan sql
+  Python: menggerakkan proses query, kapan dijalankan dan bagaimana query dipakai dari postgre.
+
+  Dbeaver (tulis query)
+      |
+  postgres <=> python.
+
+  SQL menentukan apa yang terjadi pada data, dan Python menentukan kapan dan bagaimana proses berjalan.
+
+# saya tidak hanya mempelajari tool, saya memahami konsep dan perannya, hari ini klik di kepala saya.
+# proud with my self.
+  
